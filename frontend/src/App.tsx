@@ -98,11 +98,8 @@ export default function App() {
                     ))}
                 </section>
             </main>
-
-            <h1>
-                1+1=
-            </h1>
         </div>
+
     )
 
 }
